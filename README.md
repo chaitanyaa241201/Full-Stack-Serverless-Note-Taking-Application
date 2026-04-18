@@ -60,3 +60,5 @@ We welcome contributions! Please check the `CONTRIBUTING.md` file for guidelines
 
 # Troubleshooting
 - If you encounter issues while running the application, check the FAQ section in the documentation.
+
+<img width="1849" height="1609" alt="image" src="https://github.com/user-attachments/assets/fac16b86-c840-4f84-a63a-073b376cac42" />
